@@ -1,14 +1,14 @@
 .custom-container {
-    margin: 5vh 15vw !important;
-    text-align: center;
+  margin: 5vh 15vw !important;
+  text-align: center;
 }
 
 .blog-page-cover {
-    max-width: 70vw;
+  max-width: 70vw;
 }
 
 .blog-content {
-    text-align: justify;
+  text-align: justify;
 }
 
 /*Button*/
@@ -17,7 +17,7 @@
   border-color: yellow;
   color: #fff;
   background: {
-    image: linear-gradient(45deg,$yellow 50%, transparent 50%);
+    image: linear-gradient(45deg, $yellow 50%, transparent 50%);
     position: 100%;
     size: 400%;
   }
